@@ -1,4 +1,4 @@
-package MireaJava.Ex2.ExString;
+package MireaJava.FirstMetod.ExString;
 
 public class ExString {
     public static void main(String[] args) {

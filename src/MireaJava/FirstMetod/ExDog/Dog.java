@@ -1,4 +1,4 @@
-package MireaJava.Ex2.ExDog;
+package MireaJava.FirstMetod.ExDog;
 
 public class Dog {
 

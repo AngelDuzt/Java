@@ -1,4 +1,4 @@
-package MireaJava.Ex2.Ex4;
+package MireaJava.FirstMetod.Ex4;
 
 public class Point {
     private double x;

@@ -1,4 +1,4 @@
-package MireaJava.Ex2.ExDog;
+package MireaJava.FirstMetod.ExDog;
 import java.util.*;
 
 public class DogTester {

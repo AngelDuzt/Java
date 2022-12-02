@@ -1,4 +1,4 @@
-package MireaJava.Ex2.ExBook;
+package MireaJava.FirstMetod.ExBook;
 
 public class BookShelf {
     private Book[] array = new Book[10];

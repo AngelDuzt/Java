@@ -1,4 +1,4 @@
-package MireaJava.Ex2.Ex3;
+package MireaJava.FirstMetod.Ex3;
 
 public class TestBall {
     public static void main(String[] args) {

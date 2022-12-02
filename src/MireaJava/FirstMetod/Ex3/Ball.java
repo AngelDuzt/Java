@@ -1,4 +1,4 @@
-package MireaJava.Ex2.Ex3;
+package MireaJava.FirstMetod.Ex3;
 
 public class Ball {
     private double x;

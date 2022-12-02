@@ -1,4 +1,4 @@
-package MireaJava.Ex2.ExCircle;
+package MireaJava.FirstMetod.ExCircle;
 
 public class Circle {
 

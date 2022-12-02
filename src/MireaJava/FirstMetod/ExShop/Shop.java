@@ -1,4 +1,4 @@
-package MireaJava.Ex2.ExShop;
+package MireaJava.FirstMetod.ExShop;
 import java.util.*;
 
 public class Shop {

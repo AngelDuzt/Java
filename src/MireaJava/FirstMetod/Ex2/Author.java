@@ -1,4 +1,4 @@
-package MireaJava.Ex2;
+package MireaJava.FirstMetod.Ex2;
 
 public class Author {
     private String name;
