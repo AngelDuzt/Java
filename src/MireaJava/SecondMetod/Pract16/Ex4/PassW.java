@@ -1,4 +1,4 @@
-package MireaJava.SecondMetod.Pract16;
+package MireaJava.SecondMetod.Pract16.Ex4;
 
 import javax.swing.*;
 import java.awt.*;
